@@ -1,0 +1,10 @@
+streamlit
+azure-storage-blob
+openai
+pandas
+requests
+newspaper3k
+retry
+streamlit-folium
+azure-cosmos
+wordcloud
