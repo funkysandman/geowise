@@ -77,5 +77,11 @@
 		"ms-python.python",
 		"ms-python.pylint"
 	],
-	"remoteUser": "vscode"
+	"remoteUser": "vscode",
+	"features": {
+		"ghcr.io/devcontainers/features/python:1": {
+			"installTools": true,
+			"version": "latest"
+		}
+	}
 }
